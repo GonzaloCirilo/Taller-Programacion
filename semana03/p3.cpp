@@ -21,6 +21,6 @@ int main() {
 
     cout << "Volumen = " << vol << endl;
     cout << "Su monto a pagar es " << calcularPrecio(area, vol) << " soles"; 
-
+    _getch();
     return 0;
 }
