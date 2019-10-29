@@ -61,6 +61,5 @@ int main() {
     calcularMarcasFueraDeLimite(arr);
     marcaConMayorAzucar(arr);
     reporte(arr);
-
 	return 0;
 }
