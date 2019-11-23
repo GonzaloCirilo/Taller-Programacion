@@ -22,7 +22,7 @@ int main() {
 
 	int res = 0;
 
-	for (int i = 0; i < 30; i++) {
+	for (int i = 0; i <= 30; i++) {
 		int mayor = min(arrH[i], arrM[i]);
 		if (mayor > res)
 			res = mayor;
